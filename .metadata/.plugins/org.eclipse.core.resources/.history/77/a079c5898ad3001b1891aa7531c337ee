@@ -1,0 +1,5 @@
+insert into alien values(101, 'Hamza', 'Java');
+insert into alien values(102, 'amza', 'Java');
+insert into alien values(103, 'mza', 'Java');
+insert into alien values(104, 'za', 'Java');
+insert into alien values(105, 'a', 'Java');
